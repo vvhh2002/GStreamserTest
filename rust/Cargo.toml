@@ -4,3 +4,11 @@ version = "0.1.0"
 authors = ["Victor <drjone@gmail.com>"]
 
 [dependencies]
+gstreamer = "0.11.5"
+gstreamer-rtsp = "0.11.0"
+gstreamer-rtsp-server = "0.11.0"
+failure = "0.1"
+failure_derive = "0.1"
+glib = "0.5.0"
+gstreamer-app = "0.11.2"
+gstreamer-pbutils = "0.11.0"
